@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_OQ-4YB4pEfGN_vRaKZakQg" label="TMC_GIT" language="java" technicalLabel="TMC_GIT" author="_OQ-4YR4pEfGN_vRaKZakQg" productVersion="Talend Cloud API Services Platform-8.0.1.20250218_0945-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/oussamalaghchim1/talend_managment_console_connection_to_git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_OROI8B4pEfGN_vRaKZakQg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_OQ-4YR4pEfGN_vRaKZakQg" login="oussama.laghchim@trial70158.us.talend.com" firstName="OUSSAMA" lastName="LAGHCHIM" type="DQ"/>
+</xmi:XMI>
